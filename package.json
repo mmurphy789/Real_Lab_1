@@ -1,0 +1,15 @@
+{
+  "name": "real_lab_1",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "main.js",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Murphy",
+  "license": "ISC"
+}
